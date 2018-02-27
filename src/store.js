@@ -5,3 +5,5 @@ import reducers from "./reducers";
 const store = createStore(reducers,state);
 
 export default store;
+
+import React from 'react';
